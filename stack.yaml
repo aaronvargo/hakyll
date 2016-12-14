@@ -1,4 +1,5 @@
-resolver: nightly-2016-10-31
+# resolver: nightly-2016-10-31
+resolver: nightly-2016-12-13
 extra-package-dbs: []
 extra-deps:
   - 'QuickCheck-2.9.2'
