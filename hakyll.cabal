@@ -99,6 +99,7 @@ Library
 
   Exposed-Modules:
     Hakyll
+    Hakyll.Internal
     Hakyll.Core.Compiler
     Hakyll.Core.Configuration
     Hakyll.Core.Dependencies
